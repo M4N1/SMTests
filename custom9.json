@@ -1,0 +1,6 @@
+{
+    "file": "custom9.java",
+    "name": "custom9",
+    "criterion": "(22,{a})",
+    "result":[6, 8, 10, 14, 20]
+}

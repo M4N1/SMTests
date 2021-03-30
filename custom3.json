@@ -1,0 +1,6 @@
+{
+    "file": "custom3.java",
+    "name": "custom3",
+    "criterion": "(22,{e})",
+    "result":[5, 6, 8, 12, 15, 17, 18, 21]
+}

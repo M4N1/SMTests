@@ -1,0 +1,6 @@
+{
+    "file": "custom14.java",
+    "name": "custom14",
+    "criterion": "(17,{x})",
+    "result":[5, 6, 9, 14, 16]
+}
